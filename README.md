@@ -16,8 +16,8 @@ This collection of beginner-friendly **Java programs** is designed to build a st
 
 ## 📁 **Folder Structure**
 
-
-```.
+```
+.
 ├── ifelse.java
 ├── checkdgtalpha.java
 ├── Noteprob.java
@@ -33,6 +33,18 @@ This collection of beginner-friendly **Java programs** is designed to build a st
 ├── Star3.java
 ├── Star4.java
 ├── Star5.java
+
+├── T1star.java        
+├── T2star.java        
+├── T3star.java        
+├── T4star.java        
+├── T5star.java       
+
+├── pyr1.java          
+├── pyr2.java          
+├── pyr3.java          
+├── pyr4.java
+
 ```
 Each file is self-contained and solves one logical problem using **clean Java code**.
 
